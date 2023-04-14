@@ -4,7 +4,9 @@ public class App {
 
         //RAMA MASTER
 
-        //RAMA DEVELOP simulacion de conflicto
+        //RAMA DEVELOP Simulamos conflicto
+
+        //RAMA FEATURE2 simulacion de conflicto
 
     }
 }
